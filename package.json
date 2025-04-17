@@ -1,0 +1,22 @@
+{
+  "name": "testa11yscan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurjon/testa11yscan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurjon/testa11yscan/issues"
+  },
+  "homepage": "https://github.com/yurjon/testa11yscan#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.14.1"
+  }
+}
